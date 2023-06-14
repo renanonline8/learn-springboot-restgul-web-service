@@ -1,4 +1,4 @@
-package com.renansgoomes.learnspringboot.restfulwebservice.helloworld;
+package com.renansgomes.learnspringboot.restfulwebservice.helloworld;
 
 public class HelloWorldBean {
 

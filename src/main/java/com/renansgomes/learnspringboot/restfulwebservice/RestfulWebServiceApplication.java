@@ -1,4 +1,4 @@
-package com.renansgoomes.learnspringboot.restfulwebservice;
+package com.renansgomes.learnspringboot.restfulwebservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
